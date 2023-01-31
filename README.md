@@ -10,30 +10,27 @@ It reads the inventory from a file then allows users to search, edit and add new
 The shoe details are stored in a file called `inventory.txt`.
 Each line of data represents a shoe, with the following info:
 
-Country - Country of origin
-Code - Product code
-Product - Project name
-Cost - Product cost
-Quantity - Current shoe quantity
+* Country - Country of origin
+* Code - Product code
+* Product - Project name
+* Cost - Product cost
+* Quantity - Current shoe quantity
 
 When the program launches, it reads in the shoe inventory and creates a list of shoe objects using the Shoe class defined in inventory.py 
 
 ### Full list of options
-rd - read shoe data from file
-cs - create new shoe
-va - view all shoes in data set
-rs - restock shoe with lowest quanity
-ss - search shoes using shoe code
-vv - view values of all shoes
-vh - view shoe with highest quantity
+* rd - read shoe data from file
+* cs - create new shoe
+* va - view all shoes in data set
+* rs - restock shoe with lowest quanity
+* ss - search shoes using shoe code
+* vv - view values of all shoes
+* vh - view shoe with highest quantity
 
 ### How to run
-Go to an empty directory, the clone project:
-`git clone https://github.com/paigomez/finalCapstone`
-Change directory:
-`cd finalCapstone`
-Run project:
-`python inventory.py`
+* Go to an empty directory, the clone project: `git clone https://github.com/paigomez/finalCapstone`
+* Change directory: `cd finalCapstone`
+* Run project: `python inventory.py`
 
 ### Screen shots
 main menu:
