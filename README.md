@@ -37,12 +37,15 @@ Run project:
 
 ### Screen shots
 main menu:
+
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/107002916/215900007-4758e33b-8b52-42b3-94f8-c9d46339f5d6.png">
 
 search for shoe by code:
+
 <img width="878" alt="image" src="https://user-images.githubusercontent.com/107002916/215900096-d78896ba-e436-4d2d-bfaf-4adb98d66ca9.png">
 
 view shoe with highest quantity:
+
 <img width="733" alt="image" src="https://user-images.githubusercontent.com/107002916/215900125-d8a8f702-dc4d-4470-8a1e-66e9fd0cde70.png">
 
 ### Credits
